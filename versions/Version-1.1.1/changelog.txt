@@ -1,0 +1,39 @@
+Update 1.1.1
+
+Mods
+
+Added:
+None
+Updated:
+
+Architectury
+Balm
+Create cobblestone
+Default Options
+Immersive optimizations
+Soph backpacks, storage, core, storage create integration
+JEI
+OPAC
+Xaero minimap, worldmap
+Simple Voicechat 
+
+KubeJS:
+
+Added:
+Storage Feeding Upgrade
+GINORMOUS Texture Revamps
+2 New Generator types
+Milk Pop
+Honey, Chocolate, and D Breath count as bottomless now.
+Title renamed
+
+Nerfed:
+
+???
+
+Reworked:
+Byc and Supporter pop textures
+Advanced Feeding Upgrade
+Removed:
+Polishing oak slabs
+Logistics junction
