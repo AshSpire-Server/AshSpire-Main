@@ -1,0 +1,32 @@
+AshSpire 1.1.0 Update!
+
+Added:
+
+Cogwheel (recipe diagrams)
+Updated:
+Steam N Rails
+Xaero minimap
+Xaero worldmap
+OPAC
+JEI
+Soph storage, core, backpacks, storage create integration
+
+Kubejs update:
+
+Added:
+Wilson Pop
+Filippo Pop
+Activity Pop
+Cosmic Pop
+Bundles added:
+Colorful Decade
+Cinnarolls
+
+Recipes Added:
+Compacting beetroot into sugar
+New rolls recipes
+DIorite Recipe
+Lapis recipe (2)
+Blaze rod recipe
+Magma cream recipe
+New leather recipe
