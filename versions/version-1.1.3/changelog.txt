@@ -3,5 +3,4 @@ AshSpire Update 1.1.3
 Update NeoForge Loader to 21.1.248 in order for it to work!!!
 
 Removed:
-
-Ponder
+Ponderer
