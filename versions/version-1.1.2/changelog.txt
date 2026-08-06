@@ -1,0 +1,43 @@
+AshSpire Update 1.1.2
+
+Update NeoForge Loader to 21.1.248 in order for it to work!!!
+
+Added:
+
+Create Encased
+Elytras Disabled
+Create Collision Crashfix
+
+Updated:
+
+Create: Railgrinding
+Create: Slice & Dice
+Steam n Rails Neoforge
+Create Cobblestone
+Create Aquatic Ambitions
+Create: Jetpack
+Create: Framed
+Create: Brassworks Missions
+Create: Dragons Plus
+Create: Fluid
+Kotlin for Forge
+Sophisticated Backpacks
+Balm
+JEI
+
+Removed:
+
+Integrated Farming
+Nowheel
+
+KubeJS:
+
+FIxed Sweet Roll Effects
+Added Large Girder Recipe
+Added Egg Recipe
+Added Saddle Recipe
+Buffed Quartz Block Recipe
+Buffed Bone Block Recipe
+Buffed Feather Recipe
+Added the logistics junction recipe since it was bugfixed
+Added Refined Radiance, Shadow Steel, casings both so they can be used as well with create encased
